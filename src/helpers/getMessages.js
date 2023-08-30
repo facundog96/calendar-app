@@ -1,7 +1,7 @@
 
 export const getMessagesES = () => {
     return {
-        allDay: 'Todo el día',
+        allDay: 'Todo el dia',
         previous: '<',
         next: '>',
         today: 'Hoy',
@@ -13,7 +13,7 @@ export const getMessagesES = () => {
         time: 'Hora',
         event: 'Evento',
         noEventsInRange: 'No hay eventos en este rango',
-        showMore: total => `+ Ver más (${total})`
+        showMore: total => `+ Ver mas (${total})`
     };
 }
 
